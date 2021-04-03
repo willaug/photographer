@@ -11,7 +11,7 @@
 
 ## Sobre
 
-Uma **One page** é uma página que contém as informações mais importantes em seu único **index**. Por conta disso, decidi criar uma One page com o aúxilio do framework front-end **Bootstrap** em sua mais nova e mais completa versão, a 5.
+Uma **One page** é uma página que contém as informações mais importantes em seu único **index**. Por conta disso, decidi criar uma One page com o aúxilio do framework front-end **Bootstrap** em sua mais nova e completa versão, a 5.
 
 ## Conteúdo da One Page
 - Apresentação;
