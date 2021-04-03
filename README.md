@@ -19,6 +19,17 @@ Uma **One page** é uma página que contém as informações mais importantes em
 - Nossos projetos;
 - Contato.
 
+## Instalação
+
+Baixe o repositório em sua máquina:
+```
+git clone https://github.com/willaug/Photographer.git
+```
+Acesse a pasta principal:
+```
+cd Photographer
+```
+
 ## Construído com o aúxilio de
 
 - [Bootstrap v5](https://getbootstrap.com/) (Framework front-end);
